@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2009
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StudyTimeHelper.Web", "StudyTimeHelper.Web\StudyTimeHelper.Web.csproj", "{08CA11DC-F352-4717-936B-663693632078}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StudyTimeHelper.Data", "StudyTimeHelper.Data\StudyTimeHelper.Data.csproj", "{CA28D2AC-2721-4909-A383-FB48CCEA5476}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StudyTimeHelper.Model", "StudyTimeHelper.Model\StudyTimeHelper.Model.csproj", "{5386B453-1258-48F0-A759-EBD500061984}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StudyTimeHelper.Service", "StudyTimeHelper.Service\StudyTimeHelper.Service.csproj", "{FBEEA575-22B7-4C3E-929C-CE38C03AB38F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StudyTimeHelper", "StudyTimeHelper\StudyTimeHelper.csproj", "{45F98305-0CBB-4D95-B70E-3F3554CECDF9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Contracts", "Contracts\Contracts.csproj", "{4166A191-0D24-4CF3-8BA8-473C8957FC67}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{08CA11DC-F352-4717-936B-663693632078}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{08CA11DC-F352-4717-936B-663693632078}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{08CA11DC-F352-4717-936B-663693632078}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{08CA11DC-F352-4717-936B-663693632078}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CA28D2AC-2721-4909-A383-FB48CCEA5476}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA28D2AC-2721-4909-A383-FB48CCEA5476}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA28D2AC-2721-4909-A383-FB48CCEA5476}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA28D2AC-2721-4909-A383-FB48CCEA5476}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5386B453-1258-48F0-A759-EBD500061984}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5386B453-1258-48F0-A759-EBD500061984}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5386B453-1258-48F0-A759-EBD500061984}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5386B453-1258-48F0-A759-EBD500061984}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FBEEA575-22B7-4C3E-929C-CE38C03AB38F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FBEEA575-22B7-4C3E-929C-CE38C03AB38F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FBEEA575-22B7-4C3E-929C-CE38C03AB38F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FBEEA575-22B7-4C3E-929C-CE38C03AB38F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{45F98305-0CBB-4D95-B70E-3F3554CECDF9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45F98305-0CBB-4D95-B70E-3F3554CECDF9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{45F98305-0CBB-4D95-B70E-3F3554CECDF9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{45F98305-0CBB-4D95-B70E-3F3554CECDF9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4166A191-0D24-4CF3-8BA8-473C8957FC67}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4166A191-0D24-4CF3-8BA8-473C8957FC67}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4166A191-0D24-4CF3-8BA8-473C8957FC67}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4166A191-0D24-4CF3-8BA8-473C8957FC67}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D5FE2031-3F92-4D17-B54F-633504621AE8}
+	EndGlobalSection
+EndGlobal
